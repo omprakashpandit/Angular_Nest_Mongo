@@ -1,0 +1,39 @@
+Project is connected with mongoDB Atlas so first connect with mongoDB to run
+
+PS D:\NESTJS\Angular_Nest_Mongo> node -v
+v16.14.0
+PS D:\NESTJS\Angular_Nest_Mongo> npm -v
+8.3.1
+PS D:\NESTJS\Angular_Nest_Mongo> ng v 
+Angular CLI: 7.3.1
+
+
+Angular
+=======
+npm install
+ng serve (run program)
+ng g c Component/header or header
+
+nestJS
+=======
+npm install
+npm start(run program)
+nest g module products
+nest g controller products
+nest g service products
+npm run start:dev
+
+
+JsonData
+========
+{
+	"title" : "Haziq1",
+	"description" : "majeed",
+	"price" : 29.99
+}
+
+618125598071e02e6c42439b
+
+VSCode
+=====
+Alt+Ctrl to move element
